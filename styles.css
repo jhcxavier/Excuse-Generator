@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+}
+.background{
+    position: absolute;
+    width:450px;
+    height: 280px;
+    left: 35%;
+    top: 30%;
+    background-color: white;
+}
+.excuses{
+    position:absolute;
+    left:28%;
+    top:35%;
+}
+button{
+    left: 20px;
+}
