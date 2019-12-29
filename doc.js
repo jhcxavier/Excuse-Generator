@@ -4,9 +4,6 @@ window.onload = () => {
         let what = ['eat ', 'pissed ', 'crushed ', 'broked '];
         let when = ['before the class.', 'right in time.', 'when I finished.', 'during my lunch.'];
 
-        // function randEx( arr) {
-        //     return arr[Math.floor(Math.random() * arr.length)];
-        // }
 
         let who2 = Math.floor(Math.random() * who.length);
         let what2 = Math.floor(Math.random() * what.length);
